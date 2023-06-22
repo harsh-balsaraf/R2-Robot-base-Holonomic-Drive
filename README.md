@@ -1,4 +1,4 @@
-# R2-Robot-base-Holonomic-Drive
+# DD Robocon 2022 :- R2-Robot-base-Holonomic-Drive
 In the ABU ROBOCON 2022 Theme, the robot must be able to accomplish a preset objective, such as pilling the lagori disc and picking and passing the ball to the R1 Robot. 
 
 Holonomic is one of the methods used in navigating the omnidirectional movement of mobile robot applications. Because the movement is designed without changing the position of the robot in the direction of the facing, the omnidirectional wheels are used which has the ability to move freely in two directions.
